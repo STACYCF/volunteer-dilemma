@@ -202,5 +202,3 @@ ax4.set_xlabel("Número de voluntarios")
 ax4.set_ylabel("Frecuencia")
 
 st.pyplot(fig4)
-
-
